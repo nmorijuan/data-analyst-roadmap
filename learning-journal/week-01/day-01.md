@@ -101,31 +101,31 @@ Te propongo trabajar como si estuvieras en un bootcamp profesional.
 
 Cada día entregarás un documento (Word o PDF) con:
 
-•	Respuestas a los ejercicios. 
+•	Respuestas a los ejercicios.
 
-•	Resolución de casos. 
+•	Resolución de casos.
 
-•	Definiciones e investigaciones. 
+•	Definiciones e investigaciones.
 
-•	Capturas de pantalla cuando corresponda. 
+•	Capturas de pantalla cuando corresponda.
 
-•	Reflexión breve sobre lo aprendido. 
+•	Reflexión breve sobre lo aprendido.
 
-•	Dudas encontradas. 
+•	Dudas encontradas.
 
 Yo revisaré cada entrega como si fuera un líder técnico, señalando fortalezas, errores y oportunidades de mejora.
 
 Además, al final de cada semana realizaré:
 
-•	Revisión técnica de tus archivos. 
+•	Revisión técnica de tus archivos.
 
-•	Examen teórico. 
+•	Examen teórico.
 
-•	Examen práctico. 
+•	Examen práctico.
 
-•	Retroalimentación detallada. 
+•	Retroalimentación detallada.
 
-•	Decisión de avance (solo continuaremos cuando domines los objetivos de la semana). 
+•	Decisión de avance (solo continuaremos cuando domines los objetivos de la semana).
 
 Una mejora adicional
 
@@ -157,11 +157,11 @@ Data-Analyst-Portfolio/
 
 Al finalizar los 90 días tendrás dos activos muy valiosos:
 
-1\.	Repositorio técnico en GitHub con código, notebooks, consultas SQL y dashboards. 
+1\.	Repositorio técnico en GitHub con código, notebooks, consultas SQL y dashboards.
 
-2\.	Portafolio de aprendizaje con todas tus evidencias, proyectos y evaluaciones. 
+2\.	Portafolio de aprendizaje con todas tus evidencias, proyectos y evaluaciones.
 
-Esto no solo te ayudará a aprender, sino que también será una excelente muestra de tu disciplina y progreso cuando postules a un empleo. A partir del Día 2, también comenzaré a asignarte pequeñas tareas de documentación para que practiques cómo comunicar análisis de datos, una habilidad muy valorada en el mundo laboral. 
+Esto no solo te ayudará a aprender, sino que también será una excelente muestra de tu disciplina y progreso cuando postules a un empleo. A partir del Día 2, también comenzaré a asignarte pequeñas tareas de documentación para que practiques cómo comunicar análisis de datos, una habilidad muy valorada en el mundo laboral.
 
 Semana 1 – Día 1 29/06/2026
 
@@ -223,17 +223,17 @@ Primero debes hacer preguntas.
 
 Ejemplo:
 
-•	¿Qué periodo analizamos? 
+•	¿Qué periodo analizamos?
 
-•	¿Qué productos? 
+•	¿Qué productos?
 
-•	¿Qué sedes? 
+•	¿Qué sedes?
 
-•	¿Qué significa "ganancia"? 
+•	¿Qué significa "ganancia"?
 
-•	¿Existe presupuesto esperado? 
+•	¿Existe presupuesto esperado?
 
-•	¿Qué decisiones se tomarán con el análisis? 
+•	¿Qué decisiones se tomarán con el análisis?
 
 Un analista dedica gran parte del tiempo a comprender el problema antes de tocar los datos.
 
@@ -241,23 +241,23 @@ Paso 2. Obtener los datos
 
 Los datos pueden venir de:
 
-•	Excel 
+•	Excel
 
-•	ERP (SAP, Oracle) 
+•	ERP (SAP, Oracle)
 
-•	SQL Server 
+•	SQL Server
 
-•	PostgreSQL 
+•	PostgreSQL
 
-•	APIs 
+•	APIs
 
-•	Archivos CSV 
+•	Archivos CSV
 
-•	Google Sheets 
+•	Google Sheets
 
-•	Sistemas internos 
+•	Sistemas internos
 
-•	Formularios 
+•	Formularios
 
 Un buen analista sabe conectar todas estas fuentes.
 
@@ -267,17 +267,17 @@ Aquí suele invertirse el mayor esfuerzo.
 
 Tareas comunes:
 
-•	eliminar duplicados 
+•	eliminar duplicados
 
-•	corregir errores 
+•	corregir errores
 
-•	completar valores faltantes 
+•	completar valores faltantes
 
-•	convertir formatos de fecha 
+•	convertir formatos de fecha
 
-•	unificar nombres 
+•	unificar nombres
 
-•	validar consistencia 
+•	validar consistencia
 
 En proyectos reales, esto puede representar entre el 60 % y el 80 % del tiempo.
 
@@ -285,17 +285,17 @@ Paso 4. Analizar
 
 Aquí comienzan las preguntas importantes:
 
-•	¿Qué ocurrió? 
+•	¿Qué ocurrió?
 
-•	¿Por qué ocurrió? 
+•	¿Por qué ocurrió?
 
-•	¿Dónde ocurrió? 
+•	¿Dónde ocurrió?
 
-•	¿Cuándo ocurrió? 
+•	¿Cuándo ocurrió?
 
-•	¿Quién estuvo involucrado? 
+•	¿Quién estuvo involucrado?
 
-•	¿Qué tendencias existen? 
+•	¿Qué tendencias existen?
 
 •	¿Qué variables parecen influir?
 
@@ -305,13 +305,13 @@ No basta con tener respuestas.
 
 Hay que comunicarlas de forma clara mediante:
 
-•	gráficos 
+•	gráficos
 
-•	tablas 
+•	tablas
 
-•	indicadores 
+•	indicadores
 
-•	dashboards 
+•	dashboards
 
 Paso 6. Contar una historia (Storytelling)
 
@@ -331,17 +331,17 @@ Durante estos meses trabajarás en cuatro áreas.
 
 1\. Técnicas
 
-•	Excel 
+•	Excel
 
-•	SQL 
+•	SQL
 
-•	Python 
+•	Python
 
-•	Power BI 
+•	Power BI
 
-•	Tableau 
+•	Tableau
 
-•	Git 
+•	Git
 
 •	APIs
 
@@ -351,33 +351,33 @@ No necesitas ser matemático.
 
 Pero sí dominar:
 
-•	promedio 
+•	promedio
 
-•	mediana 
+•	mediana
 
-•	desviación estándar 
+•	desviación estándar
 
-•	correlación 
+•	correlación
 
-•	porcentajes 
+•	porcentajes
 
-•	tendencias 
+•	tendencias
 
 3\. Negocio
 
 Aprenderás conceptos como:
 
-•	KPI 
+•	KPI
 
-•	margen 
+•	margen
 
-•	rentabilidad 
+•	rentabilidad
 
-•	crecimiento 
+•	crecimiento
 
-•	conversión 
+•	conversión
 
-•	productividad 
+•	productividad
 
 •	eficiencia
 
@@ -407,13 +407,13 @@ Python 3.13.x
 
 Instala las siguientes extensiones:
 
-•	Python 
+•	Python
 
-•	Jupyter 
+•	Jupyter
 
-•	Pylance 
+•	Pylance
 
-•	GitLens 
+•	GitLens
 
 •	SQLite (opcional)
 
@@ -429,7 +429,7 @@ data-analyst-roadmap
 
 Selecciona:
 
-•	✅ Public 
+•	✅ Public
 
 •	✅ Add README
 
@@ -517,9 +517,9 @@ Este error significa simplemente que Git no sabe quién eres.
 
 Todos los commits tienen:
 
-•	nombre 
+•	nombre
 
-•	correo 
+•	correo
 
 Configurar usuario y correo:
 
@@ -721,13 +721,13 @@ Probablemente Git abra un editor de texto para confirmar el mensaje del merge.
 
 Si aparece Vim (pantalla negra), haz esto:
 
-1\.	Presiona Esc 
+1\.	Presiona Esc
 
-2\.	Escribe: 
+2\.	Escribe:
 
 :wq
 
-3\.	Presiona Enter. 
+3\.	Presiona Enter.
 
 Si se abre el Bloc de notas, simplemente guarda y cierra.
 
@@ -785,13 +785,13 @@ Esta es la mejor salida que puedes obtener.
 
 Significa que:
 
-•	✅ Estás en la rama main. 
+•	✅ Estás en la rama main.
 
-•	✅ Tu repositorio local está sincronizado con GitHub. 
+•	✅ Tu repositorio local está sincronizado con GitHub.
 
-•	✅ No hay cambios pendientes. 
+•	✅ No hay cambios pendientes.
 
-•	✅ Todo está correctamente versionado. 
+•	✅ Todo está correctamente versionado.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -847,23 +847,23 @@ No necesitamos crear más ramas todavía.
 
 Acabas de aprender sin darte cuenta:
 
-•	Git Init 
+•	Git Init
 
-•	GitHub 
+•	GitHub
 
-•	Commit 
+•	Commit
 
-•	Push 
+•	Push
 
-•	Pull 
+•	Pull
 
-•	Merge 
+•	Merge
 
-•	Remote 
+•	Remote
 
-•	Branch 
+•	Branch
 
-•	Conflictos de historial 
+•	Conflictos de historial
 
 Eso normalmente se enseña en un curso de Git de varias horas.
 
@@ -1139,37 +1139,37 @@ Hasta este momento has completado correctamente:
 
 ✅ Configuración del entorno
 
-•	✔ Python 
+•	✔ Python
 
-•	✔ VS Code 
+•	✔ VS Code
 
-•	✔ Git 
+•	✔ Git
 
-•	✔ GitHub 
+•	✔ GitHub
 
-•	✔ PostgreSQL 
+•	✔ PostgreSQL
 
-•	✔ DBeaver 
+•	✔ DBeaver
 
-•	✔ Power BI 
+•	✔ Power BI
 
-•	✔ Tableau 
+•	✔ Tableau
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ✅ Git
 
-•	✔ Configuración de usuario 
+•	✔ Configuración de usuario
 
-•	✔ Primer repositorio 
+•	✔ Primer repositorio
 
-•	✔ Primer commit 
+•	✔ Primer commit
 
-•	✔ Sincronización con GitHub 
+•	✔ Sincronización con GitHub
 
-•	✔ Resolución de un conflicto de historial 
+•	✔ Resolución de un conflicto de historial
 
-•	✔ Uso de VS Code con Git 
+•	✔ Uso de VS Code con Git
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -1213,13 +1213,13 @@ Feedback del día 1
 
 Esto tiene dos beneficios:
 
-•	Refuerza el aprendizaje mediante reflexión. 
+•	Refuerza el aprendizaje mediante reflexión.
 
 Muestra disciplina y evolución cuando alguien revise tu repositorio
 
 Cada día dedicarás entre 5 y 10 minutos a responder estas preguntas:
 
-1\.	¿Qué aprendí hoy? 
+1\.	¿Qué aprendí hoy?
 
 Hoy 29/06 fue un día muy productivo, si bien es cierto estuve en varios momentos del día, el objetivo es poder cumplir estas 4 horas diarias de forma consecutivas o en 2 grupos de 2 horas c/u.
 
@@ -1247,15 +1247,19 @@ se presentaron 2 errores lo cuales se dieron solución, creando la configuració
 
 2\.	¿Qué fue lo más difícil? 
 
+Lo más difícil, diría lo que mas me llevó tiempo realizar fue la configuración de mi repositorio Github y realizar la conexión mediante comandos git, lo cual al final se realizó 😊
+
 3\.	¿Qué dudas me quedaron? 
+
+Por ahora nada.
 
 4\.	¿Cómo podría aplicar este conocimiento en mi trabajo? 
 
+Aún fue el primer día, de igual manera tengo realizado en github un pequeño sistema para impresión de Fotocheck lo cual con lo que voy aprendiendo puedo realizar algunas mejoras y sobre todo actualizar mi app.
+
 5\.	¿Qué haría diferente si empezara de nuevo? 
 
-
-
-
+Mas que todo organizarme para cumplir con el objetivo de las 4 horas, ya sea en uno solo bloque o 2, esto se irá adaptando conforme pase el tiempo.
 
 
 
